@@ -1,1 +1,1 @@
-# WikiClassifier
+# Wikipedia Classifier
